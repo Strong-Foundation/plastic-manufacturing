@@ -12,6 +12,7 @@ This repository contains CAD models for various plastic products commonly used i
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Discord](#discord)
 
 ## Project Overview
 
@@ -37,16 +38,19 @@ The primary categories of products covered in this repository are:
 The following CAD models are included in this repository:
 
 1. **Plastic Storage Boxes**
+
    - Multi-sized boxes for organizing items.
    - Stackable design for efficient storage.
    - Includes lid variations and custom configurations.
 
 2. **Kitchen Products**
+
    - Spice holders, utensil organizers, and more.
    - Designed to withstand typical kitchen environments.
    - Modular components for easy customization.
 
 3. **Bathroom Accessories**
+
    - Soap dishes, toothbrush holders, towel racks, and storage organizers.
    - Water-resistant designs for bathroom environments.
    - Simple, elegant designs that suit a variety of bathroom decors.
@@ -56,6 +60,7 @@ The following CAD models are included in this repository:
    - Flexible designs that can be adapted for multiple purposes.
 
 Each model includes the following files:
+
 - `.step` files for compatibility with most CAD software.
 - `.stl` files for 3D printing.
 - Documentation on key dimensions and assembly instructions (where applicable).
@@ -65,7 +70,7 @@ Each model includes the following files:
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/plastic-manufacturing-cad-models.git
+git clone https://github.com/Strong-Foundation/plastic-manufacturing.git
 ```
 
 Once cloned, navigate to the directory containing the models. You can then open the desired CAD files in your preferred CAD software or use the STL files for 3D printing.
@@ -92,6 +97,7 @@ If you wish to modify the models, you can open the `.step` files, which are comp
 Contributions are welcome! If you would like to add new models or improve existing ones, feel free to fork the repository, make your changes, and submit a pull request.
 
 Please follow these steps for contributing:
+
 1. Fork the repository.
 2. Clone your forked repository to your local machine.
 3. Create a new branch for your feature or bugfix.
@@ -102,3 +108,9 @@ Please follow these steps for contributing:
 ## License
 
 This project is licensed under the [License](LICENSE).
+
+## Discord
+
+Join our community on Discord to discuss plastic manufacturing, CAD modeling, 3D printing, and more! Share your designs, ask questions, and get help from fellow creators.
+
+[Join the Discord server](https://discord.gg/your-invite-link)
